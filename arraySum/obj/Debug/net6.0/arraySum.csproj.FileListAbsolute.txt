@@ -1,0 +1,15 @@
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/arraySum.csproj.AssemblyReference.cache
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/arraySum.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/arraySum.AssemblyInfoInputs.cache
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/arraySum.AssemblyInfo.cs
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/arraySum.csproj.CoreCompileInputs.cache
+/home/mjchaurasia/C#/arraySum/bin/Debug/net6.0/arraySum
+/home/mjchaurasia/C#/arraySum/bin/Debug/net6.0/arraySum.deps.json
+/home/mjchaurasia/C#/arraySum/bin/Debug/net6.0/arraySum.runtimeconfig.json
+/home/mjchaurasia/C#/arraySum/bin/Debug/net6.0/arraySum.dll
+/home/mjchaurasia/C#/arraySum/bin/Debug/net6.0/arraySum.pdb
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/arraySum.dll
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/refint/arraySum.dll
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/arraySum.pdb
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/arraySum.genruntimeconfig.cache
+/home/mjchaurasia/C#/arraySum/obj/Debug/net6.0/ref/arraySum.dll
